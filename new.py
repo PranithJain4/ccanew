@@ -1,6 +1,6 @@
 name = input("Enter your name: ")
 
-if name == "Alice"   
+def example_function(param):
 
     print("Hello Alice!")
 
